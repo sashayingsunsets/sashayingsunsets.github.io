@@ -240,3 +240,12 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
    margin-top:20px; /*to have the space above the image*/
    margin-bottom:20px; /*to have the space under the image*/
 }
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}

@@ -265,4 +265,11 @@ div {text-align: center;}
 <div>This is a div.</div>
 
 </body>
-</html> 
+</html>
+
+pre {
+  display: block;
+  font-family: EB Garamond;
+  white-space: pre;
+  margin: 1em 0;
+}
